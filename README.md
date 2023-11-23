@@ -1,1 +1,13 @@
-Format all supported files: `prettier '**/*' --write --ignore-unknown`
+# `@evgenyorekhov/prettier-config`
+
+```sh
+npm install --save-dev @evgenyorekhov/prettier-config
+```
+
+How to use: https://prettier.io/docs/en/configuration.html#sharing-configurations
+
+Format all supported files:
+
+```sh
+prettier '**/*' --write --ignore-unknown
+```
