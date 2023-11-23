@@ -1,5 +1,7 @@
 # `@evgenyorekhov/prettier-config`
 
+Prettier config with a bunch of plugins.
+
 ```sh
 npm install --save-dev @evgenyorekhov/prettier-config
 ```
