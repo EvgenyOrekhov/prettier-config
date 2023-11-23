@@ -1,6 +1,6 @@
 {
   "name": "@evgenyorekhov/prettier-config",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Prettier config with a bunch of plugins",
   "keywords": [
     "prettier"
@@ -22,7 +22,7 @@
   "scripts": {
     "test": "prettier '**/*' --check --ignore-unknown",
     "preversion": "npm test",
-    "postversion": "git push && git push --tags && npm publish"
+    "postversion": "git push && git push --tags && npm publish --access public"
   },
   "dependencies": {
     "prettier-plugin-curly": "^0.1.3",
