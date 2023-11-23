@@ -6,6 +6,7 @@
     "prettier-plugin-curly",
     "prettier-plugin-toml",
     "prettier-plugin-packagejson",
+    "@prettier/plugin-xml",
     "prettier-plugin-svelte",
     "prettier-plugin-tailwindcss"
   ],
