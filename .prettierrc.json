@@ -1,0 +1,20 @@
+{
+  "plugins": [
+    "prettier-plugin-jsdoc",
+    "prettier-plugin-nginx",
+    "prettier-plugin-sh",
+    "prettier-plugin-curly",
+    "prettier-plugin-toml",
+    "prettier-plugin-svelte",
+    "prettier-plugin-tailwindcss"
+  ],
+
+  "tailwindFunctions": ["clsx", "tw", "tailwind"],
+
+  "overrides": [
+    {
+      "files": "*.svelte",
+      "options": { "parser": "svelte" }
+    }
+  ]
+}
