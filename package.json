@@ -36,7 +36,7 @@
     "prettier-plugin-toml": "^2.0.1"
   },
   "devDependencies": {
-    "prettier": "^3.1.1"
+    "prettier": "^3.2.2"
   },
   "peerDependencies": {
     "prettier": ">=3.0.0"
