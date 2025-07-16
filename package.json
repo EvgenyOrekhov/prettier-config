@@ -33,7 +33,7 @@
     "prettier-plugin-sh": "^0.17.4",
     "prettier-plugin-svelte": "^3.4.0",
     "prettier-plugin-tailwindcss": "^0.6.14",
-    "prettier-plugin-toml": "^2.0.5"
+    "prettier-plugin-toml": "^2.0.6"
   },
   "devDependencies": {
     "prettier": "^3.5.3"
